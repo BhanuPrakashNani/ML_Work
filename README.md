@@ -1,2 +1,3 @@
 # ML_Projects
-Collection of so far implemented projects related to machine learning
+Collection of so far implemented machine learning
+projects.
