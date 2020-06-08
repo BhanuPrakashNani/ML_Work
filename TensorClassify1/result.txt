@@ -1,0 +1,6 @@
+
+Hello amFOSS Congrats !!
+
+Evaluation time (1-image): 0.126s
+
+tulips : 56.09324 %roses : 23.02720 %
